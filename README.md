@@ -143,9 +143,22 @@ ESP32_LED_TEST/
 - Attendance reports and analytics
 - Multi-classroom deployment
 
-## Project Demonstration
 
-Project prototype photographs and demonstration video will be added here.
+## Project Gallery
+
+### 1. System Circuit Diagram
+![Circuit Diagram](images/circuit.jpg.png)
+
+### 2. Hardware Prototype
+![Hardware Prototype](images/prototype.jpg.jfif)
+
+### 3. OLED Display
+![OLED Display](images/oled.jpg.png)
+
+### 4. Project Showcase
+![Project Showcase](images/showcase.jpg.png)
+
+
 
 ## License
 
