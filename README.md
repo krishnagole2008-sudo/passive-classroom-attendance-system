@@ -158,6 +158,19 @@ ESP32_LED_TEST/
 ### 4. Project Showcase
 ![Project Showcase](images/showcase.jpg.png)
 
+## Project Demonstration
+
+Watch the working demonstration of the Passive Classroom Attendance Monitoring System.
+
+**[▶ Watch Project Demonstration Video](https://drive.google.com/file/d/13gwFhw5orRVAP9KsiX9K-2BSar1__1oj/view?usp=sharing)**
+
+The demonstration covers:
+- ESP32 BLE device scanning
+- Registered device detection
+- OLED display status
+- LED visual indication
+- Buzzer audio alert
+
 
 
 ## License
